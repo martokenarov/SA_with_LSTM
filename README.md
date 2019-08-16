@@ -1,1 +1,1 @@
-# SA_with_LSTM
+# Sentiment Analysis Using LSTM
